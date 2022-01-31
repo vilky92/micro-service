@@ -1,0 +1,7 @@
+com\projet1\test\initData\InitDataTest.class
+com\projet1\test\service\ServiceBook.class
+com\projet1\test\repository\IRepositoryBook.class
+com\projet1\test\controller\ControllerBook.class
+com\projet1\test\entity\Book.class
+com\projet1\test\service\IServiceBook.class
+com\projet1\test\Projet1Application.class
